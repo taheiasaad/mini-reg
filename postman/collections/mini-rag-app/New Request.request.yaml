@@ -1,4 +1,5 @@
 $kind: http-request
-url: ""
+name: New Request
+url: "{{api}}/welcome"
 method: GET
 order: 1775881546742
